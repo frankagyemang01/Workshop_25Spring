@@ -14,6 +14,7 @@ Welcome to SC3L workshop!
 * Location and Time
   * Wednesdays 1:00-2:00 pm at Keim Hall 262
   * Thursdays 1:00-2:00 pm at Chase Hall 148
+  * Please pick your preferred time because the content of the two workshop sessions in the same week is identical, topics vary from week to week though.
 * #### Topics    
   ❎ Jan 29th, 30th: Introduction to R    
   🟥 Feb 5th, 6th: Introduction to SAS    
