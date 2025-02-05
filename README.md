@@ -10,33 +10,75 @@ Welcome to SC3L workshop!
 * Visit us at https://statistics.unl.edu/sc3lhelp-desk/ and schedule an appointment to meet with a consultant! 
   
 ### 📖 About this workshop
-* Content: Statistical analysis in R and SAS
-* Location and Time
-  * Wednesdays 1:00-2:00 pm at Keim Hall 262
-  * Thursdays 1:00-2:00 pm at Chase Hall 148
+* **Content: Statistical analysis in R and SAS**
+* **Time**
+  * Wednesdays 1:00-2:00 pm
+  * Thursdays 1:00-2:00 pm
   * Please pick your preferred time because the content of the two workshop sessions in the same week is identical, topics vary from week to week though.
-* #### Topics    
-  ❎ Jan 29th, 30th: Introduction to R    
-  🟥 Feb 5th, 6th: Introduction to SAS    
-  ⚪️ Feb 12th 13th: Data Organization for Research using R    
-  ⚪️ Feb 19th 20th: Hypothesis testing, t-tests, and application in R and SAS    
-  ⚪️ Feb 26th, 27th: Visualization in R    
-  ⚪️ Mar 5th, 6th: Design of Experiments, One-way ANOVA, and examples in SAS     
-  ⚪️ Mar 12th, 13th: Design of Experiments, One-way ANOVA, and examples in R     
-  ⚪️ Mar 19th, 20th: Design of Experiments, Two-way ANOVA, and examples in SAS    
-  ⚪️ Mar 26th, 27th: Design of Experiments, Two-way ANOVA, and examples in R    
-  ⚪️ Apr 2nd, 3rd: Power analysis and examples in SAS     
-  ⚪️ Apr 9th, 10th: Multivariate analyses using R    
-  ⚪️ Apr 16th, 17th: Machine learning techniques I and application in R    
-  ⚪️ Apr 23th, 24th: Machine learning techniques II and application in R    
-  ⚪️ Apr 30, May 1st: What to do with non-normal data? Examples in SAS
+* #### Topics and locations
+  ❎ Introduction to R
+  - Jan 29th, Wed: Keim Hall 262
+  - Jan 30th, Thur: Chase Hall 148     
 
+  🟥 Introduction to SAS    
+  - Feb 5th, Wed: Food Industry Complex building, room 42
+  - Feb 6th, Thur: Chase Hall 148
+  
+  ⚪️ Data Organization for Research using R
+  - Feb 12th, Wed
+  - Feb 13th, Thur
+
+  ⚪️ Hypothesis testing, t-tests, and application in R and SAS
+  - Feb 19th, Wed
+  - Feb 20th, Thur
+
+  ⚪️ Visualization in R
+  - Feb 26th, Wed
+  - Feb 27th, Thur 
+
+  ⚪️ Design of Experiments, One-way ANOVA, and examples in SAS
+  - Mar 5th, Wed
+  - Mar 6th, Thur
+
+  ⚪️ Design of Experiments, One-way ANOVA, and examples in R
+  - Mar 12th, Wed
+  - Mar 13th, Thur
+
+  ❌ **Spring Break week, no workshop**
+
+  ⚪️ Design of Experiments, Two-way ANOVA, and examples in SAS
+  - Mar 26th, Wed
+  - May 27th, Thur
+
+  ⚪️ Design of Experiments, Two-way ANOVA, and examples in R
+  - Apr 2nd, Wed
+  - Apr 3rd, Thur
+
+  ⚪️ Power analysis and examples in SAS
+  - Apr 9th, Wed
+  - Apr 10th, Thur
+
+  ⚪️ Multivariate analyses using R
+  - Apr 16th, Wed
+  - Apr 17th, Thur
+
+  ⚪️ Machine learning techniques I and application in R
+  - Apr 23th, Wed
+  - Apr 24th, Thur
+
+  ⚪️ Machine learning techniques II and application in R
+  - Apr 30th, Wed
+  - May 1st, Thur
+
+  ⚪️ What to do with non-normal data? Examples in SAS
+  - May 7th, Wed
+  - May 8th, Thur
 
 ### ⏬ To Download Files    
 * Read the commit comment to find the files you need    
 * Look at the filename extensions    
     <img width="400" alt="image" src="https://github.com/user-attachments/assets/92623845-5f47-42cb-b4b6-1039ca86437e" />
-    * click the file ➡️ click "download raw file"
+    * click the file ➡️ click "download raw file"    
        <img width="500" alt="image" src="https://github.com/user-attachments/assets/8234c327-259b-4ed9-a458-ba8ef57b1a49" />
     *  Note: if you encounter errors when you run/open the code files (filename extensions like ".R", ".SAS"), try click "raw" ➡️ copy everything to your local file and save it      
 
