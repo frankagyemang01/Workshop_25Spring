@@ -20,11 +20,11 @@ Welcome to SC3L workshop!
   - Jan 29th, Wed: Keim Hall 262
   - Jan 30th, Thur: Chase Hall 148     
 
-  🟥 Introduction to SAS    
+  ❎ Introduction to SAS    
   - Feb 5th, Wed: Food Industry Complex building, room 42
   - Feb 6th, Thur: Chase Hall 148
   
-  ⚪️ Data Organization for Research using R
+  🟥 Data Organization for Research using R
   - Feb 12th, Wed
   - Feb 13th, Thur
 
