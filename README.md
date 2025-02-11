@@ -25,8 +25,8 @@ Welcome to SC3L workshop!
   - Feb 6th, Thur: Chase Hall 148
   
   🟥 Data Organization for Research using R
-  - Feb 12th, Wed
-  - Feb 13th, Thur
+  - Feb 12th, Wed: Food Industry Complex building, room 42
+  - Feb 13th, Thur: Chase Hall 148
 
   ⚪️ Hypothesis testing, t-tests, and application in R and SAS
   - Feb 19th, Wed
