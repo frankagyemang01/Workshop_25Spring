@@ -24,12 +24,12 @@ Welcome to SC3L workshop!
   - Feb 5th, Wed: Food Industry Complex building, room 42
   - Feb 6th, Thur: Chase Hall 148
   
-  🟥 Data Organization for Research using R
+  ❎ Data Organization for Research using R
   - ‼️ <del> Feb 12th, Wed: Food Industry Complex building, room 42</del>   
       ‼️ Cancelled due to UNL campus closed
   - Feb 13th, Thur: Chase Hall 148
 
-  ⚪️ Hypothesis testing, t-tests, and application in R and SAS
+  🟥 Hypothesis testing, t-tests, and application in R and SAS
   - Feb 19th, Wed
   - Feb 20th, Thur
 
