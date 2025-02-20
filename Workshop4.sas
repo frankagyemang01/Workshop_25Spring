@@ -27,28 +27,31 @@ PROC TTEST DATA=website_data SIDES=U;
     VAR TimeSpent;
 RUN;
 
-
-/* Create the dataset */
-DATA diet_data;
-    INPUT Before After;
+/* Step 1: Create the dataset */
+DATA sprint_times;
+    INPUT athlete before after;
+    DIFF = before - after;  /* Compute the differences */
     DATALINES;
-    85 82
-    90 87
-    78 76
-    88 86
-    92 91
-    80 78
-    ;
+1 11.2 10.8
+2 10.9 10.5
+3 11.5 11.1
+4 12.0 11.4
+5 11.8 11.3
+6 10.7 10.4
+7 11.0 10.6
+8 12.2 11.8
+;
 RUN;
 
-proc print data=diet_data;
+proc print data=sprint_times;
 run;
 
-/* Perform the paired t-test */
-PROC TTEST DATA=diet_data SIDES=L;
-    PAIRED Before*After;
-RUN;
 
+/* Step 2: Perform the Paired t-Test */
+
+PROC TTEST DATA=sprint_times SIDES=L ALPHA=0.05;
+    PAIRED before*after;
+RUN;
 
 
 
