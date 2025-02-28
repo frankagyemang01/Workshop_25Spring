@@ -29,15 +29,15 @@ Welcome to SC3L workshop!
       ‼️ Cancelled due to UNL campus closed
   - Feb 13th, Thur: Chase Hall 148
 
-  🟥 Hypothesis testing, t-tests, and application in R and SAS
+  ❎ Hypothesis testing, t-tests, and application in R and SAS
   - Feb 19th, Wed
   - Feb 20th, Thur
 
-  ⚪️ Visualization in R
+  ❎ Visualization in R
   - Feb 26th, Wed
   - Feb 27th, Thur 
 
-  ⚪️ Design of Experiments, One-way ANOVA, and examples in SAS
+  🟥 Design of Experiments, One-way ANOVA, and examples in SAS
   - Mar 5th, Wed
   - Mar 6th, Thur
 
