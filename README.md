@@ -30,20 +30,20 @@ Welcome to SC3L workshop!
   - Feb 13th, Thur: Chase Hall 148
 
   ❎ Hypothesis testing, t-tests, and application in R and SAS
-  - Feb 19th, Wed
-  - Feb 20th, Thur
+  - Feb 19th, Wed: Food Industry Complex building, room 42
+  - Feb 20th, Thur: Chase Hall 148
 
   ❎ Visualization in R
-  - Feb 26th, Wed
-  - Feb 27th, Thur 
+  - Feb 26th, Wed: Food Industry Complex building, room 42
+  - Feb 27th, Thur: Chase Hall 148
 
-  🟥 Design of Experiments, One-way ANOVA, and examples in SAS
-  - Mar 5th, Wed
-  - Mar 6th, Thur
+  ❎ Design of Experiments, One-way ANOVA, and examples in SAS
+  - Mar 5th, Wed: Food Industry Complex building, room 42
+  - Mar 6th, Thur: Chase Hall 148
 
-  ⚪️ Design of Experiments, One-way ANOVA, and examples in R
-  - Mar 12th, Wed
-  - Mar 13th, Thur
+  🟥 Design of Experiments, One-way ANOVA, and examples in R
+  - Mar 12th, Wed: Food Industry Complex building, room 42
+  - Mar 13th, Thur: Chase Hall 148
 
   ❌ **Spring Break week, no workshop**
 
