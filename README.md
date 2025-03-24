@@ -41,15 +41,15 @@ Welcome to SC3L workshop!
   - Mar 5th, Wed: Food Industry Complex building, room 42
   - Mar 6th, Thur: Chase Hall 148
 
-  🟥 Design of Experiments, One-way ANOVA, and examples in R
+  ❎ Design of Experiments, One-way ANOVA, and examples in R
   - Mar 12th, Wed: Food Industry Complex building, room 42
   - Mar 13th, Thur: Chase Hall 148
 
   ❌ **Spring Break week, no workshop**
 
-  ⚪️ Design of Experiments, Two-way ANOVA, and examples in SAS
-  - Mar 26th, Wed
-  - May 27th, Thur
+  🟥 Design of Experiments, Two-way ANOVA, and examples in SAS
+  - Mar 26th, Wed: Food Industry Complex building, room 42
+  - May 27th, Thur: Chase Hall 148
 
   ⚪️ Design of Experiments, Two-way ANOVA, and examples in R
   - Apr 2nd, Wed
