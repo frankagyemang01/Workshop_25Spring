@@ -51,11 +51,11 @@ Welcome to SC3L workshop!
   - Mar 26th, Wed: Food Industry Complex building, room 42
   - May 27th, Thur: Chase Hall 148
 
-  🟥 Design of Experiments, Two-way ANOVA, and examples in R
+  ❎ Design of Experiments, Two-way ANOVA, and examples in R
   - Apr 2nd, Wed: Food Industry Complex building, room 42
   - Apr 3rd, Thur: Chase Hall 148
 
-  ⚪️ Power analysis and examples in SAS
+  🟥 Power analysis and examples in SAS
   - Apr 9th, Wed
   - Apr 10th, Thur
 
